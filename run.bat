@@ -1,0 +1,1 @@
+start "Gaem" ./build/Debug/game.exe   
